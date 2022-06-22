@@ -58,21 +58,25 @@
    - model with early callbacks works almost the same as the model without early callbacks
 
  ![model_architecture](https://user-images.githubusercontent.com/105897390/175024065-9a0c3f7c-3f66-4611-8540-563cdee711d6.png)
-*This is the two layered neural network model developed this dataset in order to predict the outcome of the campaign.
+
+ *This is the two layered neural network model developed this dataset in order to predict the outcome of the campaign.
  
 ![tensor_final](https://user-images.githubusercontent.com/105897390/175023808-aeb939b0-7dee-481f-9132-f9cb9ab62da1.png)
-*Attached is the image of tensorboard for the models I have trained using different number of hidden layers, hidden nodes, epochs and with early callbacks.
+
+ *Attached is the image of tensorboard for the models I have trained using different number of hidden layers, hidden nodes, epochs and with early callbacks.
  
  
  ![confusion_matrix](https://user-images.githubusercontent.com/105897390/175025637-c2094705-ffac-4517-a5ea-78b2b3251809.png)
-# This is the confusion matrix produced by the model that we have developed.
+ 
+ *This is the confusion matrix produced by the model that we have developed.
  
 ![model_eval](https://user-images.githubusercontent.com/105897390/175024267-5660a974-3938-43b7-a26b-a58d26989476.png)
+ 
  *This is our model's accuracy when tested using test_dataset.
  
 Accuracy - Accuracy is the most intuitive performance measure and it is simply a ratio of correctly predicted observation to the total observations. For our model, we have got 0.90 which means our model is approximately 90% accurate.
  
- Accuracy = TP+TN/TP+FP+FN+TN
+Accuracy = TP+TN/TP+FP+FN+TN
  
 Precision is the ratio of correctly predicted positive observations to the total predicted positive observations. We have got 0.91 (91%) precision which is pretty good.
  
