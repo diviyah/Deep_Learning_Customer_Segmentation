@@ -2,7 +2,7 @@
 <a><img alt = 'image' src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white%22%3E%3C/a%3E" ><a>
 <a><img alt = 'image' src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" ><a>
 <a><img alt = 'image' src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" ><a>
-<a><img alt = 'image' src="(https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" ><a>
+
 
 # Deep_Learning_Customer_Segmentation
  Developed a deep learning model to predict the outcome of the campaign 
